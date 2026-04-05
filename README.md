@@ -5,6 +5,9 @@
 | ------------- | ------------- |
 | Region | Region      |
 | Zone   | Availability Zone    |
+| Instance Group | Target Group |
+| Instance Template | Launch template |
+| Cloud Load Balancer | Load Balancer |
 
 
 ## Geographical setup:
@@ -16,3 +19,5 @@ Organization > Folders > Projects > Resources
 
 ## Billing:
 - Billing alerts
+
+##
